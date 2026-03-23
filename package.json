@@ -1,6 +1,6 @@
 {
   "name": "clawsearch",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Safe skill discovery for AI agents — search 33,000+ skills with Trust Score, 10-language support, and @author lookup",
   "bin": {
     "clawsearch": "bin/clawsearch.mjs"
@@ -21,7 +21,7 @@
   "homepage": "https://clawsearch.cc",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/clawsec/clawsearch-cli.git"
+    "url": "git+https://github.com/huacheng/clawsearch-cli.git"
   },
   "engines": {
     "node": ">=18"
