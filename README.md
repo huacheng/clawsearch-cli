@@ -1,5 +1,7 @@
 # ClawSearch CLI
 
+[![npm version](https://img.shields.io/npm/v/clawsearch)](https://www.npmjs.com/package/clawsearch) [![license](https://img.shields.io/npm/l/clawsearch)](https://opensource.org/licenses/MIT)
+
 Safe skill discovery for AI agents. Search 33,000+ skills with Trust Score, 10-language support, and @author lookup. Continuous auditing ~2,000/day.
 
 ## Install
