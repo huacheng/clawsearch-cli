@@ -1,7 +1,7 @@
 {
   "name": "clawsearch",
   "version": "0.2.1",
-  "description": "Safe skill discovery for AI agents — search 33,000+ skills with Trust Score, 10-language support, and @author lookup",
+  "description": "Safe skill discovery for AI agents — search 33,000+ skills with Trust Score, 10-language support, and @author lookup (continuous auditing ~2,000/day)",
   "bin": {
     "clawsearch": "bin/clawsearch.mjs"
   },

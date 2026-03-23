@@ -1,6 +1,6 @@
 # ClawSearch CLI
 
-Safe skill discovery for AI agents. Search 33,000+ skills with Trust Score, 10-language support, and @author lookup.
+Safe skill discovery for AI agents. Search 33,000+ skills with Trust Score, 10-language support, and @author lookup. Continuous auditing ~2,000/day.
 
 ## Install
 
