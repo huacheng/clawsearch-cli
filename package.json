@@ -1,0 +1,29 @@
+{
+  "name": "clawsearch",
+  "version": "0.2.0",
+  "description": "Safe skill discovery for AI agents — search 33,000+ skills with Trust Score, 10-language support, and @author lookup",
+  "bin": {
+    "clawsearch": "bin/clawsearch.mjs"
+  },
+  "type": "module",
+  "keywords": [
+    "claude-code",
+    "skill",
+    "security",
+    "audit",
+    "trust-score",
+    "openclaw",
+    "clawhub",
+    "agent"
+  ],
+  "author": "ClawSec",
+  "license": "MIT",
+  "homepage": "https://clawsearch.cc",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clawsec/clawsearch-cli.git"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
